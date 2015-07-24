@@ -10747,14 +10747,14 @@ window.Framer.Defaults.DeviceView = {
   "deviceScale" : -1,
   "orientation" : 0,
   "contentScale" : 1,
-  "deviceType" : "desktop-safari-1440-900"
+  "deviceType" : "fullscreen"
 };
 
 window.Framer.Defaults.DeviceComponent = {
   "deviceScale" : -1,
   "orientation" : 0,
   "contentScale" : 1,
-  "deviceType" : "desktop-safari-1440-900"
+  "deviceType" : "fullscreen"
 };
 
 window.FramerStudioInfo = {
